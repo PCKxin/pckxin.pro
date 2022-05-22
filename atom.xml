@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nagisaのにちじょう</title>
+  
+  <subtitle>Nagisaの日常</subtitle>
+  <link href="https://pckxin.pro/atom.xml" rel="self"/>
+  
+  <link href="https://pckxin.pro/"/>
+  <updated>2022-05-19T13:03:45.963Z</updated>
+  <id>https://pckxin.pro/</id>
+  
+  <author>
+    <name>Nagisa</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试02</title>
+    <link href="https://pckxin.pro/posts/test002.html"/>
+    <id>https://pckxin.pro/posts/test002.html</id>
+    <published>2022-05-19T10:46:14.000Z</published>
+    <updated>2022-05-19T13:03:45.963Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>条件判断：</strong></p><p>单项判断   <code>if:</code></p><p>#条件后记得跟进英文冒号，回车后自动缩进</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX ：</span><br><span class="line">缩进 <span class="built_in">print</span>()</span><br></pre></td></tr></table></figure><p>双向判断  <code>if…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line"><span class="built_in">print</span>(XXXX)</span><br></pre></td></tr></table></figure><p>多项判断  <code>if…elif…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#条件1不满足执行</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#同上</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:   <span class="comment">#以上条件都不满足后执行</span></span><br><span class="line">Print(XXXX)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;条件判断：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;单项判断   &lt;code&gt;if:&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;#条件后记得跟进英文冒号，回车后自动缩进&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td cla</summary>
+      
+    
+    
+    
+    <category term="studynote" scheme="https://pckxin.pro/categories/studynote/"/>
+    
+    
+    <category term="python" scheme="https://pckxin.pro/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试01</title>
+    <link href="https://pckxin.pro/posts/test001.html"/>
+    <id>https://pckxin.pro/posts/test001.html</id>
+    <published>2022-05-16T04:58:12.000Z</published>
+    <updated>2022-05-19T13:03:53.758Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>条件判断：</strong></p><p>单项判断   <code>if:</code></p><p>#条件后记得跟进英文冒号，回车后自动缩进</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX ：</span><br><span class="line">缩进 <span class="built_in">print</span>()</span><br></pre></td></tr></table></figure><p>双向判断  <code>if…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line"><span class="built_in">print</span>(XXXX)</span><br></pre></td></tr></table></figure><p>多项判断  <code>if…elif…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#条件1不满足执行</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#同上</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:   <span class="comment">#以上条件都不满足后执行</span></span><br><span class="line">Print(XXXX)</span><br></pre></td></tr></table></figure><p><strong>if嵌套：</strong></p><pre><code>if嵌套执行顺序：           #根据层级执行    #缩进相同的命令同等级，一条一条处理        1.先赋值        2.代码组1——不满足60直接跳到代码组2        3.代码组2——代码组1未满足执行</code></pre><div align="center"><p><img src="/./img/noteimg/02.png" alt="nested"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;条件判断：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;单项判断   &lt;code&gt;if:&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;#条件后记得跟进英文冒号，回车后自动缩进&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td cla</summary>
+      
+    
+    
+    
+    <category term="studynote" scheme="https://pckxin.pro/categories/studynote/"/>
+    
+    
+    <category term="python" scheme="https://pckxin.pro/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://pckxin.pro/posts/Hello-World.html"/>
+    <id>https://pckxin.pro/posts/Hello-World.html</id>
+    <published>2022-05-16T04:53:27.028Z</published>
+    <updated>2022-05-19T13:08:50.180Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
