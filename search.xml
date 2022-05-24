@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>解题思路</title>
+      <link href="/posts/solution.html"/>
+      <url>/posts/solution.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-分析问题，明确结果"><a href="#1-分析问题，明确结果" class="headerlink" title="1.分析问题，明确结果"></a>1.分析问题，明确结果</h2><h2 id="2-思考需要的知识"><a href="#2-思考需要的知识" class="headerlink" title="2.思考需要的知识"></a>2.思考需要的知识</h2><h2 id="3-思考切入点"><a href="#3-思考切入点" class="headerlink" title="3.思考切入点"></a>3.思考切入点</h2><h2 id="4-尝试解决一部分"><a href="#4-尝试解决一部分" class="headerlink" title="4.尝试解决一部分"></a>4.尝试解决一部分</h2><h2 id="5-重复1-4步"><a href="#5-重复1-4步" class="headerlink" title="5.重复1-4步"></a>5.重复1-4步</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> studynote </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试02</title>
       <link href="/posts/test002.html"/>
       <url>/posts/test002.html</url>
