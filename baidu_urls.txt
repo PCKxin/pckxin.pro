@@ -1,4 +1,5 @@
-https://pckxin.pro/posts/solution.html
+https://pckxin.pro/posts/python-note.html
+https://pckxin.pro/posts/markdown.html
 https://pckxin.pro/posts/test002.html
 https://pckxin.pro/posts/test001.html
 https://pckxin.pro/posts/Hello-World.html

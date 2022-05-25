@@ -2,9 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://pckxin.pro/posts/solution.html</loc>
+    <loc>https://pckxin.pro/posts/python-note.html</loc>
     
-    <lastmod>2022-05-24</lastmod>
+    <lastmod>2022-05-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/posts/test001.html</loc>
+    
+    <lastmod>2022-05-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/posts/test002.html</loc>
+    
+    <lastmod>2022-05-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/posts/markdown.html</loc>
+    
+    <lastmod>2022-05-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -47,24 +74,6 @@
   </url>
   
   <url>
-    <loc>https://pckxin.pro/posts/test001.html</loc>
-    
-    <lastmod>2022-05-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pckxin.pro/posts/test002.html</loc>
-    
-    <lastmod>2022-05-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://pckxin.pro/categories/index.html</loc>
     
     <lastmod>2022-05-19</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://pckxin.pro/</loc>
-    <lastmod>2022-05-24</lastmod>
+    <lastmod>2022-05-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,7 +102,14 @@
   
   <url>
     <loc>https://pckxin.pro/tags/python/</loc>
-    <lastmod>2022-05-24</lastmod>
+    <lastmod>2022-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/tags/Note/</loc>
+    <lastmod>2022-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -101,8 +117,8 @@
 
   
   <url>
-    <loc>https://pckxin.pro/categories/studynote/</loc>
-    <lastmod>2022-05-24</lastmod>
+    <loc>https://pckxin.pro/categories/StudyNote/</loc>
+    <lastmod>2022-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
