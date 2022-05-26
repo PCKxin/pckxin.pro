@@ -8,6 +8,6 @@ https://pckxin.pro/posts/Hello-World.html
 https://pckxin.pro/categories/index.html
 https://pckxin.pro/tags/index.html
 https://pckxin.pro/
-https://pckxin.pro/tags/Note/
 https://pckxin.pro/tags/python/
+https://pckxin.pro/tags/Note/
 https://pckxin.pro/categories/StudyNote/
