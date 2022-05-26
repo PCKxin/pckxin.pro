@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://pckxin.pro/posts/Hello-World.html</loc>
+    
+    <lastmod>2022-05-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pckxin.pro/posts/memo-01.html</loc>
     
     <lastmod>2022-05-26</lastmod>
@@ -68,15 +77,6 @@
     <loc>https://pckxin.pro/link/index.html</loc>
     
     <lastmod>2022-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pckxin.pro/posts/Hello-World.html</loc>
-    
-    <lastmod>2022-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
