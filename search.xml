@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> python </tag>
-            
             <tag> Note </tag>
+            
+            <tag> python </tag>
             
         </tags>
       
@@ -50,36 +50,11 @@
     
     
     <entry>
-      <title>测试02</title>
-      <link href="/posts/test002.html"/>
-      <url>/posts/test002.html</url>
+      <title>测试文章</title>
+      <link href="/posts/test00.html"/>
+      <url>/posts/test00.html</url>
       
         <content type="html"><![CDATA[<p><strong>条件判断：</strong></p><p>单项判断   <code>if:</code></p><p>#条件后记得跟进英文冒号，回车后自动缩进</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX ：</span><br><span class="line">缩进 <span class="built_in">print</span>()</span><br></pre></td></tr></table></figure><p>双向判断  <code>if…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line"><span class="built_in">print</span>(XXXX)</span><br></pre></td></tr></table></figure><p>多项判断  <code>if…elif…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#条件1不满足执行</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#同上</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:   <span class="comment">#以上条件都不满足后执行</span></span><br><span class="line">Print(XXXX)</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> StudyNote </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> python </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试01</title>
-      <link href="/posts/test001.html"/>
-      <url>/posts/test001.html</url>
-      
-        <content type="html"><![CDATA[<p><strong>条件判断：</strong></p><p>单项判断   <code>if:</code></p><p>#条件后记得跟进英文冒号，回车后自动缩进</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX ：</span><br><span class="line">缩进 <span class="built_in">print</span>()</span><br></pre></td></tr></table></figure><p>双向判断  <code>if…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line"><span class="built_in">print</span>(XXXX)</span><br></pre></td></tr></table></figure><p>多项判断  <code>if…elif…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#条件1不满足执行</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#同上</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:   <span class="comment">#以上条件都不满足后执行</span></span><br><span class="line">Print(XXXX)</span><br></pre></td></tr></table></figure><p><strong>if嵌套：</strong></p><pre><code>if嵌套执行顺序：           #根据层级执行    #缩进相同的命令同等级，一条一条处理        1.先赋值        2.代码组1——不满足60直接跳到代码组2        3.代码组2——代码组1未满足执行</code></pre><div align="center"><p><img src="/./img/noteimg/02.png" alt="nested"></p>]]></content>
       
       
       <categories>
