@@ -4,35 +4,6 @@
   
     
     <entry>
-      <title>Ubuntu安装win10虚拟机卡死报错</title>
-      <link href="/posts/undefined.html"/>
-      <url>/posts/undefined.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> Ubuntu </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Ubuntu </tag>
-            
-            <tag> 报错 </tag>
-            
-            <tag> 虚拟机 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hexo插件</title>
       <link href="/posts/memo-01.html"/>
       <url>/posts/memo-01.html</url>
@@ -96,6 +67,35 @@
         <tags>
             
             <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Ubuntu下VMware安装win10虚拟机教程，以及卡死报错解决方法</title>
+      <link href="/posts/ubuntu-skill-01.html"/>
+      <url>/posts/ubuntu-skill-01.html</url>
+      
+        <content type="html"><![CDATA[<p>最近改用ubuntu做主系统用了，但是学校教学需要微信，我在编码时还爱用酷狗听音乐，但是这两款软件在linux上兼容不好 <del>(主要是懒的折腾</del></p><p>就想到了开虚拟机装这些软件，但是装虚拟机碰壁了，报错卡死，网上用Ubuntu加VMware装win10的文章很少。</p><p>所以踩了很多坑，折腾了很久，然后就写出了这篇文章来帮大家。</p><h2 id="切换root进入Vmware"><a href="#切换root进入Vmware" class="headerlink" title="切换root进入Vmware"></a>切换root进入Vmware</h2><p><strong>这步很重要，普通方式进去装不上</strong></p><p><strong>1. 切换指令</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo su</span><br></pre></td></tr></table></figure><p><strong>2. 打开mware</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo vmware</span><br></pre></td></tr></table></figure><h2 id="开始创建虚拟机"><a href="#开始创建虚拟机" class="headerlink" title="开始创建虚拟机"></a>开始创建虚拟机</h2><p><strong>注意:Ubuntu的VMware没有中文版</strong></p><h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><p><strong>1. 选自定义配置</strong></p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P1.png?download=true" alt="配置"></p><p><strong>2. 版本</strong></p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P2.png?download=true" alt="版本"></p><p><strong>3. 选择镜像的路径</strong></p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P3.png?download=true" alt="路径"></p><p><strong>4. 虚拟机类型</strong></p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P4.png?download=true" alt="类型"></p><p><strong>5. 存放路径，推荐新建个VMware文件夹来存</strong></p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P5.png?download=true" alt="存放路径"></p><p><strong>6. 启动方式</strong></p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P6.png?download=true" alt="启动方式"></p><p><strong>7. CPU核数和每核的线程数，按自己电脑的一半来</strong></p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P7.png?download=true" alt="CPU"></p><p><strong>8. 内存，给Ubuntu也就是主系统留出最低4G就行</strong>**</p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P8.png?download=true" alt="内存"></p><p><strong>9. 网络连接方式</strong></p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P9.png?download=true" alt="网络"></p><p><strong>10. 按默认推荐的来就行，也就是后面带(Recommended)的</strong></p><p>如果后面创建失败，就按照图中的来</p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P10.png?download=true" alt="默认1"><br><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P11.png?download=true" alt="默认2"></p><p><strong>11. 磁盘大小，按照实际需求</strong></p><p>下面选第二个，做成一个文件，不拉性能</p><p>选第三个好移动但是性能会变低，看你的实际需求</p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P12.png?download=true" alt="磁盘"></p><p><strong>12. 下一步，启动</strong></p><p><strong>如果正常进系统安装引导，不卡的话，就成功了，卡的话看下面</strong></p><h3 id="卡死-amp-报错"><a href="#卡死-amp-报错" class="headerlink" title="卡死&amp;报错"></a>卡死&amp;报错</h3><p>卡在启动界面，或是卡进去的页面</p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P13.png?download=true" alt="卡"></p><p>**报错:**error: (svga) ISBRendererComm: Lost connection to mksSandbox</p><p>打开<strong>display</strong>选项</p><p>关掉<strong>3D加速选项</strong></p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P14.png?download=true" alt="3d加速"></p><p><strong>解决进系统👌，愉快的使用吧😘</strong></p><p><img src="https://pckxin.coding.net/p/yuki-img-cn/d/ID-0202/git/raw/master/img/skill/ubuntu/UBUN-P15.png?download=true" alt="成功"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Ubuntu </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Ubuntu </tag>
+            
+            <tag> 报错 </tag>
+            
+            <tag> 虚拟机 </tag>
             
         </tags>
       
