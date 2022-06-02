@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pckxin.pro/link/index.html</loc>
+    
+    <lastmod>2022-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/posts/test00.html</loc>
+    
+    <lastmod>2022-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pckxin.pro/posts/ubuntu-skill-01.html</loc>
     
     <lastmod>2022-05-27</lastmod>
@@ -38,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://pckxin.pro/posts/test00.html</loc>
-    
-    <lastmod>2022-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://pckxin.pro/posts/markdown.html</loc>
     
     <lastmod>2022-05-25</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://pckxin.pro/Note/index.html</loc>
-    
-    <lastmod>2022-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pckxin.pro/link/index.html</loc>
     
     <lastmod>2022-05-22</lastmod>
     
@@ -124,6 +124,20 @@
   </url>
   
   <url>
+    <loc>https://pckxin.pro/tags/Hexo/</loc>
+    <lastmod>2022-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/tags/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
+    <lastmod>2022-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://pckxin.pro/tags/Ubuntu/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -144,20 +158,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://pckxin.pro/tags/Hexo/</loc>
-    <lastmod>2022-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://pckxin.pro/tags/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
-    <lastmod>2022-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -168,14 +168,14 @@
   </url>
   
   <url>
-    <loc>https://pckxin.pro/categories/Ubuntu/</loc>
+    <loc>https://pckxin.pro/categories/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://pckxin.pro/categories/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
+    <loc>https://pckxin.pro/categories/Ubuntu/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

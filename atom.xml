@@ -65,33 +65,6 @@
   </entry>
   
   <entry>
-    <title>测试文章</title>
-    <link href="https://pckxin.pro/posts/test00.html"/>
-    <id>https://pckxin.pro/posts/test00.html</id>
-    <published>2022-05-19T10:46:14.000Z</published>
-    <updated>2022-05-26T01:09:13.157Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>条件判断：</strong></p><p>单项判断   <code>if:</code></p><p>#条件后记得跟进英文冒号，回车后自动缩进</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX ：</span><br><span class="line">缩进 <span class="built_in">print</span>()</span><br></pre></td></tr></table></figure><p>双向判断  <code>if…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line"><span class="built_in">print</span>(XXXX)</span><br></pre></td></tr></table></figure><p>多项判断  <code>if…elif…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#条件1不满足执行</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#同上</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:   <span class="comment">#以上条件都不满足后执行</span></span><br><span class="line">Print(XXXX)</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;strong&gt;条件判断：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;单项判断   &lt;code&gt;if:&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;#条件后记得跟进英文冒号，回车后自动缩进&lt;/p&gt;
-&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td cla</summary>
-      
-    
-    
-    
-    <category term="StudyNote" scheme="https://pckxin.pro/categories/StudyNote/"/>
-    
-    
-    <category term="python" scheme="https://pckxin.pro/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Ubuntu下VMware安装win10虚拟机教程，以及卡死报错解决方法</title>
     <link href="https://pckxin.pro/posts/ubuntu-skill-01.html"/>
     <id>https://pckxin.pro/posts/ubuntu-skill-01.html</id>
@@ -147,6 +120,33 @@
     <category term="python" scheme="https://pckxin.pro/tags/python/"/>
     
     <category term="Note" scheme="https://pckxin.pro/tags/Note/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="https://pckxin.pro/posts/test00.html"/>
+    <id>https://pckxin.pro/posts/test00.html</id>
+    <published>2021-05-19T10:46:14.000Z</published>
+    <updated>2022-06-02T08:10:26.185Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>条件判断：</strong></p><p>单项判断   <code>if:</code></p><p>#条件后记得跟进英文冒号，回车后自动缩进</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX ：</span><br><span class="line">缩进 <span class="built_in">print</span>()</span><br></pre></td></tr></table></figure><p>双向判断  <code>if…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line"><span class="built_in">print</span>(XXXX)</span><br></pre></td></tr></table></figure><p>多项判断  <code>if…elif…else… :</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> XXXX :</span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#条件1不满足执行</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">elif</span> XXXX:  <span class="comment">#同上</span></span><br><span class="line">Print(XXXX)</span><br><span class="line"><span class="keyword">else</span>:   <span class="comment">#以上条件都不满足后执行</span></span><br><span class="line">Print(XXXX)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;条件判断：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;单项判断   &lt;code&gt;if:&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;#条件后记得跟进英文冒号，回车后自动缩进&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td cla</summary>
+      
+    
+    
+    
+    <category term="StudyNote" scheme="https://pckxin.pro/categories/StudyNote/"/>
+    
+    
+    <category term="python" scheme="https://pckxin.pro/tags/python/"/>
     
   </entry>
   
