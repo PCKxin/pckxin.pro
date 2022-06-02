@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pckxin.pro/Note/index.html</loc>
+    
+    <lastmod>2022-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pckxin.pro/tags/index.html</loc>
     
     <lastmod>2022-06-02</lastmod>
@@ -77,15 +86,6 @@
     <loc>https://pckxin.pro/about/index.html</loc>
     
     <lastmod>2022-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pckxin.pro/Note/index.html</loc>
-    
-    <lastmod>2022-05-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
