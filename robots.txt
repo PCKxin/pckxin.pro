@@ -8,6 +8,10 @@ Disallow: /js/
 Disallow: /photos/
 Disallow: /*.css
 Disallow: /*.js
+Disallow: /tags
+Disallow: /link
+Disallow: /categories
+Disallow: /archives
 
 Sitemap: https://pckxin.pro/sitemap.xml
 Sitemap: https://pckxin.pro/baidusitemap.xml
