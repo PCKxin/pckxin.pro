@@ -6,8 +6,6 @@ Disallow: /img/
 Disallow: /css/
 Disallow: /js/
 Disallow: /photos/
-Disallow: /*.css
-Disallow: /*.js
 Disallow: /tags
 Disallow: /link/
 Disallow: /categories/
