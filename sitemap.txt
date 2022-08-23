@@ -9,8 +9,8 @@ https://pckxin.pro/posts/Hello-World.html
 https://pckxin.pro/about/index.html
 https://pckxin.pro/categories/index.html
 https://pckxin.pro/
-https://pckxin.pro/tags/Note/
 https://pckxin.pro/tags/python/
+https://pckxin.pro/tags/Note/
 https://pckxin.pro/tags/Hexo/
 https://pckxin.pro/tags/%E5%A4%87%E5%BF%98%E5%BD%95/
 https://pckxin.pro/tags/Ubuntu/
