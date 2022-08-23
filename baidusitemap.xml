@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pckxin.pro/posts/ubuntu-skill-01.html</loc>
+    <loc>https://pckxin.pro/posts/python-note.html</loc>
     <lastmod>2022-08-23</lastmod>
   </url>
   <url>
-    <loc>https://pckxin.pro/posts/python-note.html</loc>
-    <lastmod>2022-07-31</lastmod>
+    <loc>https://pckxin.pro/posts/memo-01.html</loc>
+    <lastmod>2022-08-23</lastmod>
+  </url>
+  <url>
+    <loc>https://pckxin.pro/posts/ubuntu-skill-01.html</loc>
+    <lastmod>2022-08-23</lastmod>
   </url>
   <url>
     <loc>https://pckxin.pro/posts/markdown.html</loc>
@@ -18,10 +22,6 @@
   </url>
   <url>
     <loc>https://pckxin.pro/posts/Hello-World.html</loc>
-    <lastmod>2022-05-26</lastmod>
-  </url>
-  <url>
-    <loc>https://pckxin.pro/posts/memo-01.html</loc>
     <lastmod>2022-05-26</lastmod>
   </url>
 </urlset> 
