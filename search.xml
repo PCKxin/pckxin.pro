@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>ubuntu20.04下 vmware更新后进不去bug修复</title>
+      <link href="/posts/ubuntu-skill-02.html"/>
+      <url>/posts/ubuntu-skill-02.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="ubuntu下vmware更新后进不去bug"><a href="#ubuntu下vmware更新后进不去bug" class="headerlink" title="ubuntu下vmware更新后进不去bug"></a>ubuntu下vmware更新后进不去bug</h2><h3 id="解决方法-按顺序执行"><a href="#解决方法-按顺序执行" class="headerlink" title="解决方法,按顺序执行"></a>解决方法,按顺序执行</h3><h4 id="查询自己的vm版本-这部出的结果记下来"><a href="#查询自己的vm版本-这部出的结果记下来" class="headerlink" title="查询自己的vm版本,这部出的结果记下来"></a>查询自己的vm版本,这部出的结果记下来</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vmware -v</span><br></pre></td></tr></table></figure><h4 id="克隆git库"><a href="#克隆git库" class="headerlink" title="克隆git库"></a>克隆git库</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/mkubecek/vmware-host-modules.git</span><br></pre></td></tr></table></figure><h4 id="进入文件夹"><a href="#进入文件夹" class="headerlink" title="进入文件夹"></a>进入文件夹</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> vmware-host-modules</span><br></pre></td></tr></table></figure><h4 id="git出自己对应版本的，看好第一步的版本号"><a href="#git出自己对应版本的，看好第一步的版本号" class="headerlink" title="git出自己对应版本的，看好第一步的版本号!!"></a>git出自己对应版本的，看好第一步的版本号!!</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git checkout workstation-16.2.3   </span><br></pre></td></tr></table></figure><h4 id="下面按顺序执行就完了"><a href="#下面按顺序执行就完了" class="headerlink" title="下面按顺序执行就完了"></a>下面按顺序执行就完了</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">make</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">make install</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo /etc/init.d/vmware start</span><br></pre></td></tr></table></figure><h4 id="完事打开新终端"><a href="#完事打开新终端" class="headerlink" title="完事打开新终端"></a>完事打开新终端</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo su</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo vmware</span><br></pre></td></tr></table></figure><p><strong>OK解决，用就完了😆</strong></p><p>2022&#x2F;11&#x2F;3小记: </p><blockquote><p>我以后除了开发需要不会再用ubuntu做主系统了</p></blockquote><p>本文首发于我的<a href="https://pckxin.pro">个人网站</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Ubuntu </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Ubuntu </tag>
+            
+            <tag> 报错 </tag>
+            
+            <tag> 虚拟机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>JS学习笔记</title>
       <link href="/posts/js-note.html"/>
       <url>/posts/js-note.html</url>
@@ -20,9 +49,9 @@
       
         <tags>
             
-            <tag> Note </tag>
-            
             <tag> 前端三剑客 </tag>
+            
+            <tag> Note </tag>
             
             <tag> JavaScript </tag>
             
@@ -49,9 +78,9 @@
       
         <tags>
             
-            <tag> Note </tag>
-            
             <tag> 前端三剑客 </tag>
+            
+            <tag> Note </tag>
             
             <tag> CSS </tag>
             
@@ -78,9 +107,9 @@
       
         <tags>
             
-            <tag> Note </tag>
-            
             <tag> 前端三剑客 </tag>
+            
+            <tag> Note </tag>
             
             <tag> HTML </tag>
             
@@ -182,9 +211,9 @@
       
         <tags>
             
-            <tag> python </tag>
-            
             <tag> Note </tag>
+            
+            <tag> python </tag>
             
         </tags>
       
