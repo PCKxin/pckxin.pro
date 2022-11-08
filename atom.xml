@@ -6,7 +6,7 @@
   <link href="https://pckxin.pro/atom.xml" rel="self"/>
   
   <link href="https://pckxin.pro/"/>
-  <updated>2022-11-03T05:27:06.331Z</updated>
+  <updated>2022-11-08T01:27:41.111Z</updated>
   <id>https://pckxin.pro/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日常小记</title>
+    <link href="https://pckxin.pro/posts/nichiju-2022-11-7.html"/>
+    <id>https://pckxin.pro/posts/nichiju-2022-11-7.html</id>
+    <published>2022-11-07T14:01:54.000Z</published>
+    <updated>2022-11-08T01:27:41.111Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="被小学生威胁了"><a href="#被小学生威胁了" class="headerlink" title="被小学生威胁了"></a>被小学生威胁了</h2><p>今天技术群里面进来个sb小学生，进来开变声器装女，巴结群主给他管理，一开始只是感到不适，但是看群友和群主都在和其聊，也就没多嘴。</p><p>但是! 这斯啥都不会进来就装b, 小群里面有人问报错，<code>windows shell</code>的问题，问题没答让人家加她好友，我感觉不对，怕这个人是进群下马的，然后阻止问题的加他好友，立马把相关解答文章发过去了。</p><p>顺便大小群起了俩公告：“@XXX 这人看不清成分，不要随意加她好友，反向也不要同意”</p><p>随后在群里阴阳我几句退群了，不大一会换个号进群骂我，我寻思算了小孩嘛，哄着点，等没动静再踢，结果踏马的越哄越来劲，给我一顿好骂，还让我开他盒，说他6个号随便开，我就一大号没法跟他对线，索性退群了，群主问我咋还破防了，把我拽回去了，给我整害怕了，我就一大号开了我没了。</p><p>创新号，退群，资料大修改，换个新号进群管</p><p>教训：不要拿自己大号当管理</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;被小学生威胁了&quot;&gt;&lt;a href=&quot;#被小学生威胁了&quot; class=&quot;headerlink&quot; title=&quot;被小学生威胁了&quot;&gt;&lt;/a&gt;被小学生威胁了&lt;/h2&gt;&lt;p&gt;今天技术群里面进来个sb小学生，进来开变声器装女，巴结群主给他管理，一开始只是感到不适，但是看群友和</summary>
+      
+    
+    
+    
+    <category term="life" scheme="https://pckxin.pro/categories/life/"/>
+    
+    
+    <category term="日常" scheme="https://pckxin.pro/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>ubuntu20.04下 vmware更新后进不去bug修复</title>
@@ -65,9 +89,9 @@
     <category term="StudyNote" scheme="https://pckxin.pro/categories/StudyNote/"/>
     
     
-    <category term="Note" scheme="https://pckxin.pro/tags/Note/"/>
-    
     <category term="前端三剑客" scheme="https://pckxin.pro/tags/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%89%91%E5%AE%A2/"/>
+    
+    <category term="Note" scheme="https://pckxin.pro/tags/Note/"/>
     
     <category term="JavaScript" scheme="https://pckxin.pro/tags/JavaScript/"/>
     
@@ -95,9 +119,9 @@ HTML 是网页结构 CSS </summary>
     <category term="StudyNote" scheme="https://pckxin.pro/categories/StudyNote/"/>
     
     
-    <category term="Note" scheme="https://pckxin.pro/tags/Note/"/>
-    
     <category term="前端三剑客" scheme="https://pckxin.pro/tags/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%89%91%E5%AE%A2/"/>
+    
+    <category term="Note" scheme="https://pckxin.pro/tags/Note/"/>
     
     <category term="CSS" scheme="https://pckxin.pro/tags/CSS/"/>
     
@@ -123,9 +147,9 @@ HTML 是网页结构 CSS </summary>
     <category term="StudyNote" scheme="https://pckxin.pro/categories/StudyNote/"/>
     
     
-    <category term="Note" scheme="https://pckxin.pro/tags/Note/"/>
-    
     <category term="前端三剑客" scheme="https://pckxin.pro/tags/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%89%91%E5%AE%A2/"/>
+    
+    <category term="Note" scheme="https://pckxin.pro/tags/Note/"/>
     
     <category term="HTML" scheme="https://pckxin.pro/tags/HTML/"/>
     
@@ -232,9 +256,9 @@ HTML 是网页结构 CSS </summary>
     <category term="StudyNote" scheme="https://pckxin.pro/categories/StudyNote/"/>
     
     
-    <category term="python" scheme="https://pckxin.pro/tags/python/"/>
-    
     <category term="Note" scheme="https://pckxin.pro/tags/Note/"/>
+    
+    <category term="python" scheme="https://pckxin.pro/tags/python/"/>
     
   </entry>
   
