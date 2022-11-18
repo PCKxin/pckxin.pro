@@ -1,3 +1,4 @@
+https://pckxin.pro/about/index.html
 https://pckxin.pro/posts/python-note.html
 https://pckxin.pro/posts/ubuntu-skill-02.html
 https://pckxin.pro/posts/html-note.html
@@ -10,20 +11,19 @@ https://pckxin.pro/tags/index.html
 https://pckxin.pro/posts/test00.html
 https://pckxin.pro/link/index.html
 https://pckxin.pro/posts/Hello-World.html
-https://pckxin.pro/about/index.html
 https://pckxin.pro/categories/index.html
 https://pckxin.pro/
 https://pckxin.pro/tags/python/
 https://pckxin.pro/tags/Note/
 https://pckxin.pro/tags/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%89%91%E5%AE%A2/
 https://pckxin.pro/tags/CSS/
+https://pckxin.pro/tags/HTML/
 https://pckxin.pro/tags/JavaScript/
 https://pckxin.pro/tags/Hexo/
 https://pckxin.pro/tags/%E5%A4%87%E5%BF%98%E5%BD%95/
 https://pckxin.pro/tags/Ubuntu/
 https://pckxin.pro/tags/%E6%8A%A5%E9%94%99/
 https://pckxin.pro/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/
-https://pckxin.pro/tags/HTML/
 https://pckxin.pro/categories/StudyNote/
 https://pckxin.pro/categories/%E5%A4%87%E5%BF%98%E5%BD%95/
 https://pckxin.pro/categories/Ubuntu/
