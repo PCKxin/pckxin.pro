@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>anti-spider</title>
+      <link href="/posts/undefined.html"/>
+      <url>/posts/undefined.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HTTP响应状态码</title>
       <link href="/posts/httperror.html"/>
       <url>/posts/httperror.html</url>
@@ -211,7 +224,7 @@
       <link href="/posts/spider-p1.html"/>
       <url>/posts/spider-p1.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="最基本"><a href="#最基本" class="headerlink" title="最基本"></a>最基本</h2><figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">requests.get(url, headers, params) </span><br><span class="line"><span class="comment"># 链接   # 请求头 # 参数(连接)</span></span><br><span class="line">requests.post(url, headers, params)</span><br></pre></td></tr></table></figure><p>返回数据类型为：Response</p><h2 id="Response对象的常用属性"><a href="#Response对象的常用属性" class="headerlink" title="Response对象的常用属性"></a>Response对象的常用属性</h2><figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">response.status_code  <span class="comment"># 检查请求是否成功  打印会返回状态码</span></span><br><span class="line">response.content   <span class="comment"># 把response对象转换为二进制数据   一般抓取图片用</span></span><br><span class="line">response.text      <span class="comment"># 把response对象转换为字符串数据</span></span><br><span class="line">response.encoding  <span class="comment"># 定义response对象的编码</span></span><br><span class="line">response.cookies   <span class="comment"># 服务器发回的cookies</span></span><br><span class="line">xxxjson = response.json()  <span class="comment"># 将返回的json格式数据转为字典</span></span><br><span class="line"></span><br><span class="line">例：</span><br><span class="line">    res = requests.get(url) </span><br><span class="line">    <span class="comment"># 打印变量res的响应状态码，以检查请求是否成功</span></span><br><span class="line">    <span class="built_in">print</span>(res.status_code)    <span class="comment"># 返回状态码具体查笔记</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="使用例子"><a href="#使用例子" class="headerlink" title="使用例子"></a>使用例子</h2><figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> resquests</span><br><span class="line"></span><br><span class="line">headers = &#123;</span><br><span class="line">        <span class="string">&#x27;user-agent&#x27;</span>: <span class="string">&#x27;Mozilla/5.0 (Windows NT 10.0; Win64; x64) &#x27;</span></span><br><span class="line">                        <span class="string">&#x27;AppleWebKit/537.36 (KHTML, like Gecko) &#x27;</span></span><br><span class="line">                        <span class="string">&#x27;Chrome/106.0.0.0 Safari/537.36 &#x27;</span></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">url = <span class="string">&#x27;&#x27;</span></span><br><span class="line"></span><br><span class="line">res = resquests.get(url, headers=headers)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(res.text)</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
