@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pckxin.pro/posts/spider-p3.html</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/posts/undefined.html</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/posts/undefined.html</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pckxin.pro/about/index.html</loc>
     
     <lastmod>2022-11-18</lastmod>
@@ -137,7 +164,7 @@
 
   
   <url>
-    <loc>https://pckxin.pro/tags/python/</loc>
+    <loc>https://pckxin.pro/tags/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%89%91%E5%AE%A2/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -151,14 +178,14 @@
   </url>
   
   <url>
-    <loc>https://pckxin.pro/tags/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%89%91%E5%AE%A2/</loc>
+    <loc>https://pckxin.pro/tags/CSS/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://pckxin.pro/tags/CSS/</loc>
+    <loc>https://pckxin.pro/tags/python/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -187,6 +214,27 @@
   
   <url>
     <loc>https://pckxin.pro/tags/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/tags/%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/tags/%E5%A5%BD%E7%8E%A9%E7%9A%84%E5%BA%93/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/tags/note/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -224,6 +272,13 @@
   
   <url>
     <loc>https://pckxin.pro/categories/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/categories/StudyNote/%E5%AE%9E%E7%94%A8%E5%BA%93/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
