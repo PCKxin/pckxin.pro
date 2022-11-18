@@ -231,6 +231,20 @@
   </url>
   
   <url>
+    <loc>https://pckxin.pro/tags/Hexo/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/tags/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://pckxin.pro/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -246,20 +260,6 @@
   
   <url>
     <loc>https://pckxin.pro/tags/note/</loc>
-    <lastmod>2022-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://pckxin.pro/tags/Hexo/</loc>
-    <lastmod>2022-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://pckxin.pro/tags/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
