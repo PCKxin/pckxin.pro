@@ -1,10 +1,11 @@
+https://pckxin.pro/posts/anti-spider-go.html
 https://pckxin.pro/about/index.html
 https://pckxin.pro/posts/spider-p2.html
 https://pckxin.pro/posts/spider-p3.html
 https://pckxin.pro/posts/spider-p1.html
-https://pckxin.pro/posts/undefined.html
 https://pckxin.pro/posts/httperror.html
 https://pckxin.pro/posts/python-note.html
+https://pckxin.pro/posts/nichiju-2022-11-7.html
 https://pckxin.pro/posts/ubuntu-skill-02.html
 https://pckxin.pro/posts/html-note.html
 https://pckxin.pro/posts/css-note.html
@@ -20,6 +21,9 @@ https://pckxin.pro/categories/index.html
 https://pckxin.pro/
 https://pckxin.pro/tags/python/
 https://pckxin.pro/tags/Note/
+https://pckxin.pro/tags/%E7%88%AC%E8%99%AB/
+https://pckxin.pro/tags/note/
+https://pckxin.pro/tags/%E5%8F%8D%E7%88%AC%E8%99%AB/
 https://pckxin.pro/tags/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%89%91%E5%AE%A2/
 https://pckxin.pro/tags/CSS/
 https://pckxin.pro/tags/HTML/
@@ -27,12 +31,12 @@ https://pckxin.pro/tags/http/
 https://pckxin.pro/tags/JavaScript/
 https://pckxin.pro/tags/Hexo/
 https://pckxin.pro/tags/%E5%A4%87%E5%BF%98%E5%BD%95/
-https://pckxin.pro/tags/%E7%88%AC%E8%99%AB/
+https://pckxin.pro/tags/%E6%97%A5%E5%B8%B8/
 https://pckxin.pro/tags/%E5%AE%9E%E7%94%A8%E5%BA%93/
-https://pckxin.pro/tags/note/
 https://pckxin.pro/tags/Ubuntu/
 https://pckxin.pro/tags/%E6%8A%A5%E9%94%99/
 https://pckxin.pro/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/
 https://pckxin.pro/categories/StudyNote/
 https://pckxin.pro/categories/%E5%A4%87%E5%BF%98%E5%BD%95/
+https://pckxin.pro/categories/life/
 https://pckxin.pro/categories/Ubuntu/
