@@ -205,6 +205,20 @@
   </url>
   
   <url>
+    <loc>https://pckxin.pro/tags/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%89%91%E5%AE%A2/</loc>
+    <lastmod>2022-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pckxin.pro/tags/CSS/</loc>
+    <lastmod>2022-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://pckxin.pro/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2022-11-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -226,20 +240,6 @@
   </url>
   
   <url>
-    <loc>https://pckxin.pro/tags/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%89%91%E5%AE%A2/</loc>
-    <lastmod>2022-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://pckxin.pro/tags/CSS/</loc>
-    <lastmod>2022-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://pckxin.pro/tags/HTML/</loc>
     <lastmod>2022-11-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,14 +247,14 @@
   </url>
   
   <url>
-    <loc>https://pckxin.pro/tags/http/</loc>
+    <loc>https://pckxin.pro/tags/JavaScript/</loc>
     <lastmod>2022-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://pckxin.pro/tags/JavaScript/</loc>
+    <loc>https://pckxin.pro/tags/http/</loc>
     <lastmod>2022-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
