@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://pckxin.pro/posts/py-decorator.html</loc>
+    <lastmod>2022-11-26</lastmod>
+  </url>
+  <url>
     <loc>https://pckxin.pro/posts/anti-spider-go.html</loc>
     <lastmod>2022-11-20</lastmod>
   </url>
