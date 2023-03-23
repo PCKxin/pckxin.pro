@@ -1,3 +1,4 @@
+https://pckxin.pro/posts/new-js-note.html
 https://pckxin.pro/posts/pysocket.html
 https://pckxin.pro/posts/css-note.html
 https://pckxin.pro/posts/html-note.html
@@ -28,8 +29,8 @@ https://pckxin.pro/tags/%E5%8F%8D%E7%88%AC%E8%99%AB/
 https://pckxin.pro/tags/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%89%91%E5%AE%A2/
 https://pckxin.pro/tags/CSS/
 https://pckxin.pro/tags/HTML/
-https://pckxin.pro/tags/http/
 https://pckxin.pro/tags/JavaScript/
+https://pckxin.pro/tags/http/
 https://pckxin.pro/tags/Hexo/
 https://pckxin.pro/tags/%E5%A4%87%E5%BF%98%E5%BD%95/
 https://pckxin.pro/tags/%E5%AE%9E%E7%94%A8%E5%BA%93/
